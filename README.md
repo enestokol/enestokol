@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+____
+
+**Connect with me:**
+
 <a href="https://www.linkedin.com/in/enes-tokol/">
   <img align="left" alt="Enes's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -7,11 +12,11 @@
 <br />
 
 <br />
-hi, i'm Enes Tokol, I'm currently working for Kafein Technology Solutions as .NET Developer
+i'm Enes Tokol, I'm currently working for Kafein Technology Solutions as .NET Developer
 <br />
 <br />
 
-**My Technology Stack:**  
+**My Technology Stacks:**  
 
 
 
@@ -22,6 +27,11 @@ hi, i'm Enes Tokol, I'm currently working for Kafein Technology Solutions as .NE
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=enestokol&show_icons=true&theme=radical)
+
+
 
 <!--
 **enestokol/enestokol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
