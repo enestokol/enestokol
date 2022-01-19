@@ -30,8 +30,7 @@ i'm Enes Tokol, I'm currently working for Kafein Technology Solutions as .NET De
 
 
 ![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=enestokol&show_icons=true&theme=radical)
-
-
+![snake svg](https://github.com/enestokol/enestokol/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **enestokol/enestokol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
